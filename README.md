@@ -6,6 +6,8 @@
 
 <h6>Criada por Tim Berners-Lee em 1990, quando desenvolveu a revolucionária World Wide Web, essa linguagem utiliza um formato de código simples, que não precisa da ajuda de aplicativos especiais. Para criar um documento HTML, apenas o bloco de notas do computador já é o suficiente. Os conteúdos explicam a importância do HTML, seus principais comandos até chegar às dicas para você criar um documento, formatá-lo, criar listas.</h6>
 
+| Módulo   | Contéudo |
+| -------- | -------- |
 | Módulo 1 | Introdução |
 | Módulo 2 | HTML e a Web |
 | Módulo 3 | Criando um documento HTML |
