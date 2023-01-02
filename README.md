@@ -18,7 +18,7 @@ Módulo 9 – Usando imagens mapeadas<br>
 
 ### Avançado:
 
-<h6>Aprendemos nessa etapa a criar e formatar tabelas, frames e formulários, além de documentar páginas.<br>Esses elementos são muito importantes para a criação de páginas Web, como, por exemplo, as tabelas - são úteis para a organização dos dados e imagens. E os formulários possibilitam que os usuários interajam com os responsáveis pelo site, o que é essencial para páginas corporativas e afins. Por fim, os frames são usados para dividir uma página, possibilitando a criação de vários documentos HTML que podem ser atualizados separadamente.</h6><br> 
+<h6>Aprendemos nessa etapa a criar e formatar tabelas, frames e formulários, além de documentar páginas.<br>Esses elementos são muito importantes para a criação de páginas Web, como, por exemplo, as tabelas - são úteis para a organização dos dados e imagens. E os formulários possibilitam que os usuários interajam com os responsáveis pelo site, o que é essencial para páginas corporativas e afins. Por fim, os frames são usados para dividir uma página, possibilitando a criação de vários documentos HTML que podem ser atualizados separadamente.</h6>
 
 <h6>Conhecemos a tag META para a inserção de metadados que servem para descrever as definições da página, incluir palavras-chaves, entre outros dados que não aparecem para o usuário, mas que são utilizados pelos navegadores e sistemas de busca.</h6><br>
 
