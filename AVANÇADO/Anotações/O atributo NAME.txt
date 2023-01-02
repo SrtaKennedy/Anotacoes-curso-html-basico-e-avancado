@@ -1,0 +1,10 @@
+O atributo NAME
+
+Quando usamos frames, podemos manter o conteúdo de um e carregar as páginas web em outro, apontamos o link para um frame.
+
+O frame em que o conteúdo pemanece constante é chamado: estático
+O frame que muda é: dinâmico
+
+Para apontar frames. primeiro precisa especificar nomes para os frames, usando o atributo name com a tag frame.
+
+O código usado para especificar o nome main para um frame que exibirá o arquivo phill.html é <frame src="phil" name="main">

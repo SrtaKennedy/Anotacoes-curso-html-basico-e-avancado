@@ -1,0 +1,24 @@
+A tag FRAMESET
+
+Para criar frames, usas-se a tag <frameset> no lugar da tag <body>
+Código:
+
+<html>
+<body>
+<head>
+<title>Frames</title>
+</head>
+<body>
+<frameset cols="25%,*,25%">
+<frame src="frame_a.html">
+<frame src="frame_b.html">
+<frame src="frame_c.html">
+</frameset>
+</body>
+</html>
+
+No frameset você define o tamanho de cada um dos frames com os atributos cols e rows que
+especificam, respectivamente, a largura e a altura dos frames.
+
+O 1 e 2 frames estão especificados como 25% do tamanho da tela, o asterístico (*) colocado
+no do meio, indica que ele usará o espaço restante, que neste caso é de 50%.

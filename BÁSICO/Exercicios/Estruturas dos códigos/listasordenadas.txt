@@ -1,0 +1,17 @@
+
+<html>
+<head>
+ <title>Criando lista ordenada</title>
+</head>
+
+<body>
+  <p><font face="Calibri" size="4">Para criar um  documento HTML é necessário seguir os passos abaixo.</p>
+  <ol>
+    <li>Acessar o Bloco de Notas</li>
+    <li>Indicar através da <i>tag</i></li>
+    <html> <i>O tipo de documento criado.</i>
+  </ol>
+  <p>Esses são os primeiros passos para se criar uma página <i>web</i>.</p>
+</body>
+
+</html>

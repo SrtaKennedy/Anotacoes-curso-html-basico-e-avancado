@@ -1,0 +1,11 @@
+
+<html>
+<heah>
+ <title>inserindo imagem</title>
+</head>
+
+<body>
+ <p>Inserindo o logo da Fundação Bradesco na página <i>web</i>.</p>
+ <img src="download.jpg">
+</body>
+</html>

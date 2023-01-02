@@ -1,0 +1,12 @@
+
+
+<table widht="300" height="20%" border="2">
+  <tr bgcolor=E0EEEE>
+      <td<b>Nome</b></td>
+      <td<b>Sobrenome</b></td>
+  <tr>
+      <td>Anna</td>
+      <td rownpan="2">Santos</td>
+  <tr>
+      <td>Vanessa</td>
+</table> 

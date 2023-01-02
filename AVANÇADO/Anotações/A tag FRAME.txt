@@ -1,0 +1,11 @@
+A tag FRAME: Usamos a tag frame com a tag frameset
+
+Atributos para usar com essa tag:
+
+SRC = Especifica a URL que você deseja carregar um frame.
+MARGINWIDTH = Especifica as margens direita e esquerda (largura) do conteúdo em um frame.
+Seu valor é especificado em pixels.
+MARGINHEIGHT = Especifica as margens superior e infeirior do conteúdo em um frame.
+Espeficifica em pixels.
+SCROLLING = Adiciona uma barra de rolagem a um frame.
+NORESIZE = Impede que o usuário redimensione um frame.

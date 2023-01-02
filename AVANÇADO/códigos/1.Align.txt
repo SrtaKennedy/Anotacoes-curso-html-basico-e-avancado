@@ -1,0 +1,10 @@
+
+
+<table widht="300" height="20%" border="2">
+  <tr bgcolor=E0EEEE>
+      <td align="left"><b>Nome</b></td>
+      <td align="left"><b>Sobrenome</b></td>
+  <tr>
+      <td align="center">Anna</td>
+      <td aling="right">Santos</td>
+</table> 

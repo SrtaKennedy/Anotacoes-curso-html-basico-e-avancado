@@ -1,0 +1,34 @@
+A tag META e seus atributos
+
+Metadados são informações sobre seus dados, a tag <meta> fornece dados sobre seu documentos HTML.
+Esses dados não são exibidos para o usuário final, servem para descrever as definições da página, palavras-chave, informações sobre o autor e outras informações relevantes.
+A tag <meta> deve ser inserida entre as tag <head> e </head>
+
+O atributo CONTENT
+Aceita somente texto e especifica o conteúdo da informação META, seu valor depende do valor do atributos NAME ou HTTP-EQUIV.
+
+NAME:
+O atributo name fornece um nome para a informação no atributo CONTENT.
+A sintaxe é <meta name ="valor relativo à name">
+
+Os valores do atributo name podem ser:
+
+AUTHOR - informa o autor do documento
+DESCRIPTION - descreve o documento
+KEYWORDS - define as palavras-chave que descrevem o documento
+GENERATOR - define o programa utilizado para gerar o documento
+ROBOTS - define regras para os robôs (programas utilizados em sistemas de busca)
+COPYRIGHT - define informações de direitos autorais do documento.
+
+HTTP-EQUIV:
+O atributo HTTP-EQUIV fornece um cabeçalho HTTP para a informação no atributo CONTENT.
+A sintaxe é <meta http-equiv ="valor">
+
+Os valores do atributo HTTP-EQUIV podem ser:
+
+CONTENT TYPE - define o tipo do documento (text/html)
+EXPIRES - define quando o documento será considerado obsoleto.
+REFRESH - define o tempo para que a página web seja recarregada
+SET-COOKIE - define o valor de um cookie
+
+sintaxe para regarregar uma págian automaticamente é <meta http_equiv="refresh" content="segundos URL="novo_URL">

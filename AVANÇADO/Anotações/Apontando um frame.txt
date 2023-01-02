@@ -1,0 +1,11 @@
+ Apontado um frame
+
+frame alvo em um link:
+Usa o atributo target com a tag (anchor - link)
+sintaxe: <a href="URL" target="nome_frame">
+
+O atributo TARGET possui quatro valores:
+_blank abre o link em uma nova janela
+_self: abre o link no mesmo frame.
+_parent: carrega a página no frame principal
+_top: carrega a página no frame mais alto da página

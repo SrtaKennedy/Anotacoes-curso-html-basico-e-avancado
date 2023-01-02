@@ -1,0 +1,22 @@
+<html>
+<head>
+ <title>Criando lista intercalada</title>
+</head>
+
+<body>
+ <p><font face="Calibri" size="4">Principais características dos <i>notebooks</i></p>
+ 
+ <ol>
+  <li>Orange
+      <ul>
+         <li>Tela sensível ao toque de 13°
+         <li>3 entradas USB
+      </ul>
+  <li>Lemon
+       <ul>
+          <li>Tela sensível ao toque de 15°
+          <li>2 entradas USB
+  </ol>
+ <p>Após a análise o grupo deverá escolher a melhor opção para o trabalho a ser realizado.</p>
+</body>
+</html>

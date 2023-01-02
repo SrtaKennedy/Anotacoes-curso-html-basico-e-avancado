@@ -1,0 +1,16 @@
+
+<html>
+ <head>
+ <title>EspaÃ§oes e linhas em branco</title>
+ </head>
+
+<body>
+   <!--Trecho da mÃºsica Pastorinha de Noel Rosa (domÃ­nio pÃºblico)-->
+   <pre>
+   <p>A estrela d'alva no cÃ©u desponha
+            E a lua anda tonta com tamanho esplendor
+      E as pastorinhas pra consolo da lua
+            VÃ£o cantando na rua lindos versos de amor.</p>
+   </pre>
+</body>
+</html>

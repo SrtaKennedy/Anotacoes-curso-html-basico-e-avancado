@@ -1,0 +1,17 @@
+
+<html>
+<head>
+ <title>Criando lista não ordenada</title>
+</head>
+
+<body>
+ <p><font face="Calibri" size="4">Segue abaixo lista de materiais necessários:</font></p>
+ <ul>
+  <li>Leads</li>
+  <li>Conectores</li>
+  <li>Chave de fenda Philips</li>
+  <li>Alicate</li>
+ </ul>
+ <p><i>Somente comece a instalação, se possuir todos os materiais</i>.</p>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<html>
+  <head>
+  <title>DADOS PESSOAIS</title>
+  </head>
+<body>
+<font size="3"></font>
+<font color="FF0000">
+</body>
+</html>
+
+<p>Minha página <i>web</i>.</p>
+
+<font></font>
+
+<p>Inserindo o lodo da Fundação Bradesco na página <i>web</i>.</p>
+<img src="logo_FB.jpg">
+
+exemplo de negrito: <p>texto da pagina <b>web</b>.</p>
+exemplo de italico: <p>texto da pagina <i>web</i>.</p>
+exemplo de sublinhado: <p>texto da pagina <u>web</u>.</p>
+<font face="Verdana"></font>
+
+align=TOP -> para deixar a imagem no TOPO do texto
+<img src="nome da imagem" aling="top">
+exemplo:
+<html>
+<body>
+ <p>texto. <img src="coco.png" aling="top"> texto.</p>
+</body>
+</html>
+
+align=BOTTOM -> para deixar a imagem ABAIXO do texto.
+<img src="nome da imagem" aling="bottom">
+exemplo:
+<html>
+<body>
+ <p>texto. <img src="coco.png" aling="bottom"> texto.</p>
+</body>
+</html>
+
+align=MIDDLE -> para deixar a imagem no MEIO do texto.
+<img src="nome da imagem" aling="middle">
+exemplo:
+<html>
+<body>
+ <p>texto. <img src="coco.png" aling="middle"> texto.</p>
+</body>
+</html>
+
+align=RIGHT -> para deixar a imagem à DIREITA do texto.
+<img src="nome da imagem" aling="right">
+exemplo:
+<html>
+<body>
+ <p>texto. <img src="coco.png" aling="right"> texto.</p>
+</body>
+</html>
+
+align=LEFT -> para deixar a imagem à ESQUERDA do texto.
+<img src="nome da imagem" aling="left">
+exemplo:
+<html>
+<body>
+ <p>texto. <img src="coco.png" aling="left"> texto.</p>
+</body>
+</html>
+
+<img alt="texto explicativo"> caso a imagem não apareça
+

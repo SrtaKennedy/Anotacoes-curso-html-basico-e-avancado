@@ -1,0 +1,20 @@
+<html>
+ 
+ <head>
+ <title>Dados Pessoais</title>
+ </head>
+
+<body>
+ <hr>
+ <p><font face="Verdana" size="3" color="FF0000">Página <i>Web</i></font></p>
+ <b>Dados pessoais:</b><br>
+ Nome: <b>Erica Martins</b><br>
+ E-mail: Erica@mail.com<br>
+ Nasc.: <u>12/05/2007</u><br>
+ End.: Rua do Galhos Cinzas<br>
+ <hr>
+<p> Interessante...</p>
+ <hr>
+</body>
+
+</html>

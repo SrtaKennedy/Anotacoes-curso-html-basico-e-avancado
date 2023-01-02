@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Execicios 6</title>
+</head>
+<body>
+ <p><font face="Calibri" size="5" color="FF0000">HTML - Básico</font></p>
+ <p>Para saber mais informações sobre o curso de HTML Básico, clique na informção desejada.</p>
+ <a href="item1"><font color="green">Categoria</a><br>
+ <a href="item2"><font color="red">Carga horária</a><br>
+ <a href="item3"><font color="pink">Descrição do Curso</a><br>
+ <a href="item4"><font color="yellow">Estrutura do Curso</a><br>
+ <a href="item5"><font color="blue">Pré-requisitos</a><br>
+</body>
+</html>

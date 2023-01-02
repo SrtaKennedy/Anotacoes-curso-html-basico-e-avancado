@@ -1,0 +1,27 @@
+<html>
+<head>
+ <title>Criando lista intercalada</title>
+</head>
+
+<body>
+ <p><font face="Verdana" size="5" color="FF0099">Principais pontos turísticos:</font></p>
+ 
+ <ol>
+  <li><b>Porto Alegre</b>
+      <ul>
+         <li>Casa de Cultura Mário Quintana
+         <li>Jardim Botânico
+         <li>Parque Maurício 
+         <li>Lago Guaíba
+      </ul>
+  <li><b>Manaus</b>
+       <ul>
+          <li>Encontro das águas
+          <li>Palácio Rio Negro
+          <li>Centro Cultural dos Povos da Amazônia
+          <li>Teatro Amazonas
+      </ul>
+ </ol>
+ <p><i>Independente da cidade escolhida, você terá opções maravilhosas para curtir suas férias</i>.</p>
+</body>
+</html>
