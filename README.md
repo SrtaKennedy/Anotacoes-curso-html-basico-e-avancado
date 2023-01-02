@@ -24,7 +24,9 @@
 
 <h6>Durante o curso conhecemos a tag META para a inserção de metadados que servem para descrever as definições da página, incluir palavras-chaves, entre outros dados que não aparecem para o usuário, mas que são utilizados pelos navegadores e sistemas de busca.</h6><br>
 
-Módulo 1 – Criando e formatando tabelas<br>
-Módulo 2 – Criando e formatando formulários<br>
-Módulo 3 – Criando e formatando frames<br>
-Módulo 4 – Incrementando a página Web<br>
+| Módulos  | Contéudo |
+| -------- | -------- |
+| Módulo 1 | Criando e formatando tabelas |
+| Módulo 2 | Criando e formatando formulários |
+| Módulo 3 | Criando e formatando frames |
+| Módulo 4 | Incrementando a página Web |
